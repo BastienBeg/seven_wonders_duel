@@ -1,0 +1,21 @@
+build/Bureau_x86_darwin_generic_mach_o_32bit-Debug/.ninja_deps
+CMakeLists.txt.user
+CMakeLists.txt.user.ef9af9b
+
+# Fichiers et dossiers de build spécifiques
+build/
+*.o
+*.user
+
+# Cache de l'éditeur ou de l'IDE
+.qtc_clangd/
+*.idx
+*.parameters
+*.DSTORE
+
+# Fichiers générés par CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+*.cmake
+
