@@ -15,7 +15,7 @@ Le jeu est codé en C++ et l'interface graphique avec la bibliotèque Qt version
 
 ## Build et compiler le projet
 
-  Le projet est facilement compilable via l'application Qt creator en important directement le projet depuis Github. https://www.qt.io/product/development-tools
+  Le projet est facilement compilable via l'application Qt creator en important directement le projet depuis Github avec les paramètres du pojet par default. https://www.qt.io/product/development-tools
 
 Il est également possible de le compiler en installant préalablement CMake et Qt.
 
